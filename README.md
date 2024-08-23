@@ -1,16 +1,48 @@
-# swen_news
+# SWEN NEWS
 
-A new Flutter project.
 
-## Getting Started
+SWEN NEWS is a Flutter-based application that delivers real-time news content by integrating with a NEWS API. The app features a unique 30-word news summarizing capability, providing users with concise and essential news updates.
+Additionally, users can access the full article by clicking the "Read More" button. The app is designed with a user-friendly interface, ensuring responsiveness and compatibility across a wide range of Android devices.
 
-This project is a starting point for a Flutter application.
+## Features
+Real-Time News Content: Fetches and displays the latest news articles from various sources.
 
-A few resources to get you started if this is your first Flutter project:
+30-Word News Summaries: Provides concise summaries of news articles, limited to 30 words for quick reading.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Read More Button: Allows users to read the complete article by clicking the "Read More" button.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+User-Friendly Interface: Designed with an intuitive UI for seamless navigation.
+
+Responsive Design: Optimized for various Android devices, ensuring a consistent user experience across different screen sizes.
+
+Error Handling: Gracefully manages API errors and network issues with appropriate feedback.
+
+## Demo
+Check out the demo video below to see SWEN NEWS in action:
+
+https://github.com/user-attachments/assets/ed3f3908-4027-4f90-bc39-a2c1a6b53556
+
+## Technologies Used
+Flutter: Cross-platform mobile app development framework.
+
+Dart: Programming language optimized for building user interfaces.
+
+NEWS API: NewsAPI.org for fetching real-time news data.
+
+HTTP: For making network requests to the NEWS API.
+
+Provider: State management solution for Flutter.
+
+JSON Parsing: Handling JSON data from the API.
+
+## API Integration
+SWEN NEWS uses the NewsAPI.org to fetch real-time news articles. Make sure to sign up for an API key and follow their usage terms.
+
+## Contact
+
+Author: Aalind Shukla
+
+Email: iaalindshukla@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/aalind-shukla-087ab9220/
+
